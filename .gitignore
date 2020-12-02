@@ -1,1 +1,4 @@
 .idea
+.gitignore
+vendor/
+.composer.lock
